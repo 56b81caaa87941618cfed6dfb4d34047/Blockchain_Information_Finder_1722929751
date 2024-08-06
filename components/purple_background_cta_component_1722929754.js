@@ -32,7 +32,6 @@ Vue.component("purple_background_cta_component_1722929754", {
             </div>
         </div>
     </section>`,
-}
         data() {
             return {
                 expanded: false, 
@@ -49,5 +48,6 @@ Vue.component("purple_background_cta_component_1722929754", {
                 contentCtaButtonHoverStyle: "hover:from-purple-600 hover:to-aqua-600 hover:shadow-xl",
                 contentCtaArrowStyle: "text-aqua-300"
         },
+    },
     });
                     
