@@ -10,7 +10,7 @@ Vue.component("purple_header_component_1722929754", {
         <div class="max-w-6xl mx-auto px-4 sm:px-6">
             <div class="flex items-center justify-between h-16 md:h-20">
     
-                <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar"></a></div>
+                <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="https://127.0.0.1:$PORT/get_image/tmpwmxklq11/logo.svg" width="38" height="38" alt="Stellar"></a></div>
     
                 <nav id="desktop-navigation" class="hidden md:flex md:grow">
     
