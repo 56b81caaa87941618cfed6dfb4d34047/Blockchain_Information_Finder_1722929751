@@ -4,5 +4,6 @@
     "project_description": "add an app to find new blockchain information",
     "creation_time": "2024-08-06 13:05:51.511311",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The design features a dark, gradient color scheme transitioning from deep purple to black, accented by vibrant purple and aqua highlights. The layout is modern and clean, employing a combination of sleek typography and rounded elements for a user-friendly interface."
 }
